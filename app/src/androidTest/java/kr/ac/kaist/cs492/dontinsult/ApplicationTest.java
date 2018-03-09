@@ -1,4 +1,4 @@
-package kaist.cs492.dontinsult;
+package kr.ac.kaist.cs492.dontinsult;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
